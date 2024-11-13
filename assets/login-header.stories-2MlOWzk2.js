@@ -1,0 +1,3 @@
+import{f as t}from"./index-B5ZI-g0m.js";import{L as s}from"./logo-DTHnciMF.js";import"./jsx-runtime-CfatFE5O.js";import"./index-ClcD9ViR.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-Ca-LWlf7.js";const g={title:"atoms/login-header",component:s,parameters:{layout:"centered"},tags:["autodocs"],argTypes:{backgroundColor:{control:"color"}},args:{onClick:t()}},r={args:{}};var o,a,e;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {}
+}`,...(e=(a=r.parameters)==null?void 0:a.docs)==null?void 0:e.source}}};const l=["Primary"];export{r as Primary,l as __namedExportsOrder,g as default};
