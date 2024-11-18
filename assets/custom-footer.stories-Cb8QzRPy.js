@@ -1,0 +1,3 @@
+import{f as e}from"./index-B5ZI-g0m.js";import{a as s}from"./logo-Eyd-rpob.js";import"./jsx-runtime-CfatFE5O.js";import"./index-ClcD9ViR.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./index-Ca-LWlf7.js";const u={title:"atoms/custom-footer",component:s,parameters:{layout:"centered"},tags:["autodocs"],argTypes:{backgroundColor:{control:"color"}},args:{onClick:e()}},r={args:{}};var o,t,a;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {}
+}`,...(a=(t=r.parameters)==null?void 0:t.docs)==null?void 0:a.source}}};const l=["Primary"];export{r as Primary,l as __namedExportsOrder,u as default};
