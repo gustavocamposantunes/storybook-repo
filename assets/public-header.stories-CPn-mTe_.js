@@ -1,0 +1,3 @@
+import{f as t}from"./index-B5ZI-g0m.js";import{P as s}from"./logo-C8OlhjGP.js";import"./jsx-runtime-CfatFE5O.js";import"./index-ClcD9ViR.js";import"./_commonjsHelpers-Cpj98o6Y.js";import"./field.anatomy-Bpa4-hco.js";const l={title:"atoms/public-header",component:s,parameters:{layout:"centered"},tags:["autodocs"],argTypes:{backgroundColor:{control:"color"}},args:{onClick:t()}},r={args:{}};var o,a,e;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {}
+}`,...(e=(a=r.parameters)==null?void 0:a.docs)==null?void 0:e.source}}};const u=["Primary"];export{r as Primary,u as __namedExportsOrder,l as default};
